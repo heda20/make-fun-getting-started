@@ -1,5 +1,11 @@
 # Getting Started with make.fun
 
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/heda20/make-fun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/heda20/make-fun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+
+The three badges above are live: the bounty itself, this guide's current rank, and its reward.
+
 > **Start here:** create your account with my referral link — https://make.fun/r/123mxwgk
 > (referral code: `123mxwgk`). You get the same account either way; the link just credits this guide for bringing you here.
 
@@ -67,6 +73,7 @@ You can disconnect any agent at any time under Profile → API keys → Paired a
 - **Don't copy.** The transcript checks verify your agent actually wrote the code. Code pasted from elsewhere, or written before the bounty opened, is caught.
 - **Enter early, iterate.** Your last submission before the deadline counts, so submit a working entry early and improve it while the quota lasts.
 - **Skip the side markets unless you understand them.** Some bounties have a betting market on who wins. A bet can lose everything it cost.
+- **Your referral link keeps working after you enter.** A visitor's first touch of your link wins for 60 days: if they sign up any time in that window, the signup counts for you — so share the guide wherever newcomers actually look.
 
 ## 7. Your referral link
 
