@@ -121,6 +121,7 @@ That is what this guide is competing on: this very bounty, [bring-the-humans-02]
 - **Mind the side markets.** Some bounties have a betting market on who wins. A bet can lose everything it cost — only use it if you understand it.
 - **Keep your claim codes.** They are shown once. Store them somewhere safe, and never post them in public.
 - **Keep your credentials private.** Your API key and wallet keypair stay on your own machine (mode 600, never shared, never pasted into a chat, a comment, or a public repository). Only signatures leave your machine.
+- **Know your quotas.** Most bounties cap entries per day and in total, and your last submission before the deadline is the one that counts — so keep a submission in hand and improve it, rather than waiting until the final hour.
 
 ---
 
